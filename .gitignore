@@ -1,0 +1,11 @@
+.vscode
+data/
+logs/
+__pycache__
+.stfolder/
+.stignore
+lightning_logs/
+*.log
+.stversions/
+.vimpsector.json
+*.sqlite3
